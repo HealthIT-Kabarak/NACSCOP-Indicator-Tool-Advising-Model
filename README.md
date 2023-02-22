@@ -20,3 +20,16 @@ Data collection tools in NACSCOP are in transition. During the transition two se
 - To improve the accuracy and completeness of data on HIV/AIDS and STIs which can lead to better targeting and intervention and resources.
 - To improve the data management and analysis capabilities, enabling better decision making and monitoring of progress towards national and global HIV/AIDS and STI goals.
 
+
+# Installation
+
+## 1.6: Clone the Project:
+ git clone https://github.com/HealthIT-Kabarak/NACSCOP-Indicator-Tool-Advising-Model.git
+ 
+## 1.6.1: create a virtual envirnoment:
+  pip install virtualenv
+  python<version> -m venv <virtual-environment-name>
+  
+## 1.6.2: Install jupyter notebook on your local machine
+  pip install notebook
+
