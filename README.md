@@ -2,10 +2,10 @@
 Classification model to advise on the indicator to use
 
 ## 1.2 Devs Name 
-1. Benazir Salha  
-2. Becky Blessing  
-3. Dennis Kipkoech  
-4. Hamisi Salim 
+1. Benazir Salha - Benasirsalha@kabarak.ac.ke
+2. Becky Blessing  - gblessing@kabarak.ac.ke
+3. Dennis Kipkoech - 
+4. Hamisi Salim - hamisimaliango@gmail.com
 
 ### 1.3 Introduction
 Nacscop is an organization that leads in response to HIV and STIs. It works in collaboration with the counties and therefore the hospitals within that county. Medical institutions input their data initially using a tool know as ART which ran till 2018 when there was creation of a more detailed tool know as MOH 731. However, both of the tools are currently under use as transition is taking place gradually. The use of two system is creating inefficiency and inaccuracy in data analysis by the organization.
